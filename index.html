@@ -132,7 +132,16 @@
 </div>
 
 <script>
-    addToHomescreen();
+    addToHomescreen({
+        skipFirstVisit: true,
+        maxDisplayCount: 1,
+        appID: "_qC_auth_",
+        displayPace: 20,
+        detectHomeScreen: "queryString",
+        onAdd: () => {
+            addedToHomeScreen = true;
+        }
+    });
 </script>
 </body>
 </html>
