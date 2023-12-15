@@ -4,7 +4,7 @@
   "description": "PWAER is a PWA that allows you to test PWA",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
-  "display": "standalone",
+  "display": "fullscreen",
   "lang": "en",
   "dir": "ltr",
   "orientation": "any",
