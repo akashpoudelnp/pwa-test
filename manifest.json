@@ -1,5 +1,5 @@
 {
-  "name": "PWAER App 1.2",
+  "name": "PWAER App 1.3",
   "short_name": "PWER APP",
   "description": "PWAER is a PWA that allows you to test PWA",
   "theme_color": "#1976d2",
@@ -29,25 +29,25 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "assets/manifest-icon-192.maskable.png",
+      "src": "includes/manifest-icon-192.maskable.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "assets/manifest-icon-192.maskable.png",
+      "src": "includes/manifest-icon-192.maskable.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "assets/manifest-icon-512.maskable.png",
+      "src": "includes/manifest-icon-512.maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "assets/manifest-icon-512.maskable.png",
+      "src": "includes/manifest-icon-512.maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -55,14 +55,14 @@
   ],
   "screenshots": [
     {
-      "src": "assets/screenshots/sc-wide.png",
+      "src": "includes/screenshots/sc-wide.png",
       "sizes": "1744x918",
       "type": "image/png",
       "platform": "wide",
       "form_factor": "wide"
     },
     {
-      "src": "assets/screenshots/sc-mobile.png",
+      "src": "includes/screenshots/sc-mobile.png",
       "sizes": "479x861",
       "type": "image/png",
       "platform": "mobile"
