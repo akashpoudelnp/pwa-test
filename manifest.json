@@ -1,5 +1,5 @@
 {
-  "name": "PWAER App 1.3",
+  "name": "PWAER App 1.4",
   "short_name": "PWER APP",
   "description": "PWAER is a PWA that allows you to test PWA",
   "theme_color": "#1976d2",
@@ -10,7 +10,7 @@
   "orientation": "any",
   "scope": "./",
   "start_url": "./",
-  "id": "?ver=2023_12_14_001_rev_1.2",
+  "id": "?ver=2023_12_14_001_rev_1.4",
   "categories": [
     "education",
     "productivity"
