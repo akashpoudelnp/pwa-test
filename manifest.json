@@ -9,8 +9,8 @@
   "dir": "ltr",
   "orientation": "any",
   "scope": "./",
-  "start_url": "./",
-  "id": "?ver=2023_12_14_001_rev_1.4",
+  "start_url": "./?version=1.6",
+  "id": "?ver=2023_12_14_001_rev_1.6",
   "categories": [
     "education",
     "productivity"
